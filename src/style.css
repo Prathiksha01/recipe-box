@@ -1,0 +1,15 @@
+body{
+  direction:ltr;
+  background-color:black;
+}
+
+.container{
+  margin-top:100px;
+}
+
+.accordion{
+  background-color:rgb(235, 239, 241);
+  padding:20px;
+  border-radius:5px;
+}
+
